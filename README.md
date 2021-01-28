@@ -7,4 +7,4 @@ Day 1 - learned hot to connect Eclipse to github! woohoo.
   make changes
   Git staging - commit and push
   
-  
+  watching Section 2 videos
